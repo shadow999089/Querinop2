@@ -74,7 +74,7 @@ class TelaEspelho extends StatelessWidget {
                     ),
                     SizedBox(height: 12),
                     Text(
-                      '[Espaço para Imagem 1]',
+                      '',
                       style: TextStyle(color: Color(0xFF616161), fontSize: 12),
                     ),
                   ],
@@ -82,7 +82,7 @@ class TelaEspelho extends StatelessWidget {
               ),
               const SizedBox(height: 24),
               const Text(
-                'O Despertar da IA',
+                'A Grande preparação',
                 style: TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
@@ -91,7 +91,7 @@ class TelaEspelho extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               const Text(
-                'Gemini encara seu próprio reflexo no espelho antes do grande desafio.',
+                'Representando todas as IAS gemini encara seu próprio reflexo no espelho antes do grande confronto.',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 16, color: Color(0xFF616161)),
               ),
@@ -156,7 +156,7 @@ class TelaCorredor extends StatelessWidget {
                     Icon(Icons.stadium, size: 40, color: Color(0xFF757575)),
                     SizedBox(height: 10),
                     Text(
-                      '[Espaço para Imagem 2]',
+                      '',
                       style: TextStyle(color: Color(0xFF616161), fontSize: 12),
                     ),
                   ],
@@ -173,7 +173,7 @@ class TelaCorredor extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               const Text(
-                'Caminhando pelo corredor frio em direção ao centro da arena.',
+                'Caminhando pelo corredor frio e escuro gemii pensa tenho que vencer, as ias são melhores que os cerebros vencendo iremos os deixr ais dependentess.',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 16, color: Color(0xFF616161)),
               ),
@@ -216,7 +216,7 @@ class _TelaQuedaDeBracoState extends State<TelaQuedaDeBraco> {
   final TextEditingController _comentarioController = TextEditingController();
   // Lista temporária (depois você vai substituir pelos dados do banco)
   final List<String> _comentarios = [
-    'Disputa equilibrada entre lógica e criatividade!',
+    'assim como o Querino estamos com aistein queeda a todas as dderrote as IAs!',
   ];
 
   void _adicionarComentario() {
@@ -269,7 +269,7 @@ class _TelaQuedaDeBracoState extends State<TelaQuedaDeBraco> {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    '[Espaço para Imagem 3: Gemini vs Cérebro]',
+                    '[]',
                     style: TextStyle(color: Color(0xFF616161), fontSize: 12),
                   ),
                 ],
@@ -277,7 +277,7 @@ class _TelaQuedaDeBracoState extends State<TelaQuedaDeBraco> {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Gemini vs. Cérebro Humano',
+              'Gemini vs. Cérebro de aistain',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
@@ -286,7 +286,7 @@ class _TelaQuedaDeBracoState extends State<TelaQuedaDeBraco> {
             ),
             const SizedBox(height: 6),
             const Text(
-              'Quem vence essa queda de braço? Deixe seu comentário abaixo:',
+              'Quem vence essa queda de braço que decidira o destino da humanidade?, mostre qual é seu apoio abaixo:',
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 14, color: Color(0xFF616161)),
             ),
@@ -366,3 +366,20 @@ class _TelaQuedaDeBracoState extends State<TelaQuedaDeBraco> {
     );
   }
 }
+
+  
+            
+     
+          
+               
+
+  
+             
+                     
+            
+         
+               
+                   
+          
+           
+        
